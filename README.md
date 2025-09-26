@@ -22,9 +22,8 @@
 ---
 
 ## 📌 Projetos em Destaque  
-🔹 [**Projeto 1**](#) – Descrição curta do que ele faz.  
-🔹 [**Projeto 2**](#) – Descrição curta do que ele faz.  
-🔹 [**Projeto 3**](#) – Descrição curta do que ele faz.  
+
+Em andamento...
 
 ---
 
