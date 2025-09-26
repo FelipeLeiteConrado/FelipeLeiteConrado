@@ -34,7 +34,7 @@
 
 ## 📫 Como me encontrar  
 - ✉️ Email: **flc9019@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
+- 💼 [LinkedIn](www.linkedin.com/in/felipe-leite-conrado-a5a911340)  
 
 ---
 
