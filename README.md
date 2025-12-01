@@ -16,5 +16,5 @@ Improving my skills in:
 - **Plus:** Electronics & hardware fundamentals  
 
 ### 📬 Contact
-**Email:** felipeleiteconrado@gmail.com  
-**LinkedIn:** https://linkedin.com/in/felipeconrado
+**Email:** flc9019@gmail.com  
+**LinkedIn:** https://linkedin.com/in/felipe-leite-conrado
