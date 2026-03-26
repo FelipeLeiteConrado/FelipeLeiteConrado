@@ -13,6 +13,7 @@
 </p>
 
 💻 Hard Skills:
+<br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nodejs,postgres" />
 </a>
